@@ -99,12 +99,13 @@
         <mxCell id="vGR7AnARIFdGTIH2eNHi-64" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.34;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-52" target="vGR7AnARIFdGTIH2eNHi-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vGR7AnARIFdGTIH2eNHi-65" value="自适应参数调整" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.88;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-53" target="vGR7AnARIFdGTIH2eNHi-43">
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-65" value="自适应参数调整" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.88;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;textDirection=rtl;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-53" target="vGR7AnARIFdGTIH2eNHi-43">
           <mxGeometry x="-0.5225" relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="730" y="375" />
               <mxPoint x="850" y="375" />
-              <mxPoint x="850" y="-30" />
-              <mxPoint x="448" y="-30" />
+              <mxPoint x="850" y="-60" />
+              <mxPoint x="448" y="-60" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
