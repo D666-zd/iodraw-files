@@ -20,7 +20,7 @@
           <mxGeometry x="315" y="-80" width="152" height="33" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-43" value="多模态传感融合&#xa;        高光谱/RGB-D/TOF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="297.43" y="105" width="198" height="66" as="geometry" />
+          <mxGeometry x="297.43" y="105" width="162.57" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-44" value="结果数据存储&#xa;    数字孪生/知识库更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="779" y="888" width="214" height="66" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="1068" y="904" width="120" height="33" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-46" value="三维空间建模&#xa;        点云配准/SLAM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="545.43" y="159" width="170" height="66" as="geometry" />
+          <mxGeometry x="545.43" y="159" width="144.57" height="41" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-47" value="草莓位置与成熟度分析&#xa;        NDVI/PCA特征提取" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="820" y="-30" width="66" height="120" as="geometry" />
