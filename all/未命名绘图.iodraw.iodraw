@@ -13,14 +13,14 @@
         <mxCell id="vGR7AnARIFdGTIH2eNHi-40" value="分析与决策层" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="789" y="-50" width="136" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="vGR7AnARIFdGTIH2eNHi-41" value="感知与识别层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;align=right;" vertex="1" parent="1">
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-41" value="感知与识别层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;labelPosition=left;verticalLabelPosition=top;align=right;" vertex="1" parent="1">
           <mxGeometry x="272.43" y="30" width="467" height="230" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-42" value="启动智能采摘系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="315" y="-80" width="152" height="33" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-43" value="多模态传感融合&#xa;        高光谱/RGB-D/TOF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="297.43" y="105" width="162.57" height="45" as="geometry" />
+          <mxGeometry x="304.43" y="45" width="162.57" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-44" value="结果数据存储&#xa;    数字孪生/知识库更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="779" y="888" width="214" height="66" as="geometry" />
