@@ -41,7 +41,7 @@
           <mxGeometry x="500" y="225" width="144" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-50" value="实时性能监测&#xa;        力反馈/质量评估" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=0;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="319.5" y="240" width="132.43" height="35" as="geometry" />
+          <mxGeometry x="310" y="230" width="141.93" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-51" value="系统性能评估&#xa;        时空效率/能耗分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="315" y="713" width="197" height="66" as="geometry" />
@@ -61,12 +61,11 @@
         <mxCell id="vGR7AnARIFdGTIH2eNHi-57" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.49;entryX=1;entryY=0.49;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-48" target="vGR7AnARIFdGTIH2eNHi-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vGR7AnARIFdGTIH2eNHi-58" value="" style="startArrow=none;endArrow=block;exitX=0.25;exitY=0;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-49" target="vGR7AnARIFdGTIH2eNHi-50">
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-58" value="" style="startArrow=none;endArrow=block;exitX=0.25;exitY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-49" target="vGR7AnARIFdGTIH2eNHi-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="536" y="215" />
-              <mxPoint x="353" y="215" />
-              <mxPoint x="353" y="240" />
+              <mxPoint x="380" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
