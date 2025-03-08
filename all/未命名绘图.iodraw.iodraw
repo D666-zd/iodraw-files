@@ -38,7 +38,7 @@
           <mxGeometry x="694.43" y="120" width="66" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-49" value="机器人执行系统&#xa;        阻抗控制/视觉伺服" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=0;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="416.43" y="405" width="197" height="66" as="geometry" />
+          <mxGeometry x="843.4300000000001" y="304" width="197" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-50" value="实时性能监测&#xa;        力反馈/质量评估" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=0;direction=east;" vertex="1" parent="1">
           <mxGeometry x="663.4300000000001" y="405" width="180" height="66" as="geometry" />
