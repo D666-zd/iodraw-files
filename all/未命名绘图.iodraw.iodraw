@@ -17,7 +17,7 @@
           <mxGeometry x="272.43" y="30" width="347.57" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-42" value="启动智能采摘系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-110" width="152" height="33" as="geometry" />
+          <mxGeometry x="290" y="-60" width="152" height="33" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-43" value="多模态传感融合&#xa;        高光谱/RGB-D/TOF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="304.43" y="45" width="162.57" height="45" as="geometry" />
