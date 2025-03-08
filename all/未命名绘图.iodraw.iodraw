@@ -23,10 +23,10 @@
           <mxGeometry x="304.43" y="45" width="162.57" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-44" value="结果数据存储&#xa;    数字孪生/知识库更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="749" y="594" width="214" height="66" as="geometry" />
+          <mxGeometry x="314.22" y="500" width="214" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-45" value="完成采摘任务" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="610" width="120" height="33" as="geometry" />
+          <mxGeometry x="603.22" y="516" width="120" height="33" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-46" value="三维空间建模&#xa;        点云配准/SLAM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="466.99999999999994" y="99" width="144.57" height="41" as="geometry" />
