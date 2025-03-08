@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vGR7AnARIFdGTIH2eNHi-38" value="数据与优化层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-38" value="数据与优化层" style="whiteSpace=wrap;strokeWidth=2;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="260" y="290" width="540" height="170" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-39" value="控制与执行层" style="whiteSpace=wrap;strokeWidth=2;flipH=1;flipV=1;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" vertex="1" parent="1">
@@ -50,7 +50,7 @@
           <mxGeometry x="469.72" y="294.5" width="98" height="91" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-53" value="AI优化引擎&#xa;        强化学习/遗传算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="604" y="342" width="196" height="66" as="geometry" />
+          <mxGeometry x="594" y="342" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-55" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0;entryY=0.74;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-44" target="vGR7AnARIFdGTIH2eNHi-45">
           <mxGeometry relative="1" as="geometry" />
@@ -96,7 +96,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-65" value="自适应参数调整" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.33;entryX=0.88;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-53" target="vGR7AnARIFdGTIH2eNHi-43">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="364" />
+              <mxPoint x="200" y="35" />
+              <mxPoint x="448" y="35" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-66" value="" style="startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-42">
           <mxGeometry relative="1" as="geometry">
