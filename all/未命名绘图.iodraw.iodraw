@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="988" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="395" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="272.43" y="30" width="347.57" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-42" value="启动智能采摘系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-60" width="152" height="33" as="geometry" />
+          <mxGeometry x="274.4" y="-60" width="152" height="33" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-43" value="多模态传感融合&#xa;        高光谱/RGB-D/TOF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="304.43" y="45" width="162.57" height="45" as="geometry" />
@@ -119,10 +119,10 @@
         <mxCell id="vGR7AnARIFdGTIH2eNHi-66" value="" style="startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="366" y="-20" />
-              <mxPoint x="366" y="-20" />
+              <mxPoint x="350.4" y="-20" />
+              <mxPoint x="350.4" y="-20" />
             </Array>
-            <mxPoint x="366" y="45" as="targetPoint" />
+            <mxPoint x="350.4" y="45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-67" value="" style="startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-44" target="vGR7AnARIFdGTIH2eNHi-45">
