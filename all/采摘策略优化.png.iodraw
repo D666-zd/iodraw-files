@@ -1,0 +1,133 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1162" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-38" value="数据与优化层" style="whiteSpace=wrap;strokeWidth=2;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="480" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-39" value="控制与执行层" style="whiteSpace=wrap;strokeWidth=2;flipH=1;flipV=1;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="352.72" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-40" value="分析与决策层" style="whiteSpace=wrap;strokeWidth=2;direction=south;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="663.43" y="-10" width="126.57" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-41" value="感知与识别层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;labelPosition=left;verticalLabelPosition=top;align=right;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="272.43" y="30" width="347.57" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-42" value="启动智能采摘系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="274.4" y="-60" width="152" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-43" value="多模态传感融合&#xa;        高光谱/RGB-D/TOF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="304.43" y="45" width="162.57" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-44" value="结果数据存储&#xa;    数字孪生/知识库更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="413" y="440" width="214" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-45" value="完成采摘任务" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="667.43" y="456.5" width="120" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-46" value="三维空间建模&#xa;        点云配准/SLAM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="466.99999999999994" y="99" width="144.57" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-47" value="草莓位置与成熟度分析&#xa;        NDVI/PCA特征提取" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="694.43" y="10" width="66" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-48" value="轨迹与姿态优化&#xa;        改进TSP/逆运动学" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="694.43" y="159" width="66" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-49" value="机器人执行系统&#xa;        阻抗控制/视觉伺服" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="469.72" y="205" width="144" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-50" value="实时性能监测&#xa;        力反馈/质量评估" style="whiteSpace=wrap;strokeWidth=2;flipH=0;flipV=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="284.47" y="205" width="141.93" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-51" value="系统性能评估&#xa;        时空效率/能耗分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-52" value="参数优化决策" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="469.72" y="294.5" width="98" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-53" value="AI优化引擎&#xa;        强化学习/遗传算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-56" value="" style="startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0;entryY=0.49;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-43" target="vGR7AnARIFdGTIH2eNHi-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-57" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.49;entryX=1;entryY=0.49;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-48" target="vGR7AnARIFdGTIH2eNHi-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-58" value="" style="startArrow=none;endArrow=block;exitX=0.25;exitY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-49" target="vGR7AnARIFdGTIH2eNHi-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="505.72" y="180" />
+              <mxPoint x="349.72" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-59" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-51" target="vGR7AnARIFdGTIH2eNHi-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-60" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-52">
+          <mxGeometry x="-0.2728" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="340" />
+              <mxPoint x="570" y="374" />
+            </Array>
+            <mxPoint x="590" y="374" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-61" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-46" target="vGR7AnARIFdGTIH2eNHi-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-62" value="" style="startArrow=none;endArrow=block;exitX=0.659;exitY=1.02;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-48" target="vGR7AnARIFdGTIH2eNHi-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="693" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-63" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-50" target="vGR7AnARIFdGTIH2eNHi-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="384" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-64" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-52" target="vGR7AnARIFdGTIH2eNHi-44">
+          <mxGeometry x="-0.4679" relative="1" as="geometry">
+            <mxPoint x="520" y="460" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-65" value="自适应参数调整" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.88;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;textDirection=rtl;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-53" target="vGR7AnARIFdGTIH2eNHi-43">
+          <mxGeometry x="-0.3817" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="375" />
+              <mxPoint x="850" y="375" />
+              <mxPoint x="850" y="-60" />
+              <mxPoint x="448" y="-60" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-66" value="" style="startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350.4" y="-20" />
+              <mxPoint x="350.4" y="-20" />
+            </Array>
+            <mxPoint x="350.4" y="45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-67" value="" style="startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGR7AnARIFdGTIH2eNHi-44" target="vGR7AnARIFdGTIH2eNHi-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
