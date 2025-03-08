@@ -23,7 +23,7 @@
           <mxGeometry x="304.43" y="45" width="162.57" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-44" value="结果数据存储&#xa;    数字孪生/知识库更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="430" width="214" height="66" as="geometry" />
+          <mxGeometry x="449.43" y="479.5" width="214" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-45" value="完成采摘任务" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="693.5" y="446.5" width="120" height="33" as="geometry" />
@@ -100,8 +100,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="519" y="408" />
-              <mxPoint x="520" y="408" />
-              <mxPoint x="520" y="430" />
+              <mxPoint x="519" y="430" />
+              <mxPoint x="522" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
