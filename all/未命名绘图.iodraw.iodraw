@@ -32,7 +32,7 @@
           <mxGeometry x="545.43" y="159" width="170" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-47" value="草莓位置与成熟度分析&#xa;        NDVI/PCA特征提取" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="827" y="-130" width="66" height="221" as="geometry" />
+          <mxGeometry x="890" y="-140" width="66" height="221" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-48" value="轨迹与姿态优化&#xa;        改进TSP/逆运动学" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="828" y="243" width="66" height="190" as="geometry" />
