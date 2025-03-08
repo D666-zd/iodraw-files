@@ -11,7 +11,7 @@
           <mxGeometry x="517" y="430" width="478" height="136" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-40" value="分析与决策层" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="859" y="-160" width="136" height="511" as="geometry" />
+          <mxGeometry x="779" y="-80" width="136" height="511" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-41" value="感知与识别层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="272.43" y="30" width="467" height="230" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="545.43" y="159" width="170" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-47" value="草莓位置与成熟度分析&#xa;        NDVI/PCA特征提取" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-140" width="66" height="221" as="geometry" />
+          <mxGeometry x="810" y="-60" width="66" height="221" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-48" value="轨迹与姿态优化&#xa;        改进TSP/逆运动学" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="890" y="130" width="66" height="190" as="geometry" />
+          <mxGeometry x="810" y="210" width="66" height="190" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-49" value="机器人执行系统&#xa;        阻抗控制/视觉伺服" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="542" y="465" width="197" height="66" as="geometry" />
