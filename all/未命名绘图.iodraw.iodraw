@@ -13,7 +13,7 @@
         <mxCell id="vGR7AnARIFdGTIH2eNHi-40" value="分析与决策层" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="789" y="-50" width="136" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="vGR7AnARIFdGTIH2eNHi-41" value="感知与识别层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="vGR7AnARIFdGTIH2eNHi-41" value="感知与识别层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="272.43" y="30" width="467" height="230" as="geometry" />
         </mxCell>
         <mxCell id="vGR7AnARIFdGTIH2eNHi-42" value="启动智能采摘系统" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
