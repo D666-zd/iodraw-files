@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1179" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1670" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ys12WchY1rM21Nu849QM-1" value="草莓采摘转运系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;container=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="409" width="1870" height="352" as="geometry" />
+          <mxGeometry x="740" y="409" width="1770" height="352" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-2" value="待机状态" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="789.9997391046546" y="690" width="86.23777053068486" height="49" as="geometry" />
@@ -31,7 +31,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="ys12WchY1rM21Nu849QM-9" value="柔性收集筐存放" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2416.098428698488" y="493" width="128.45834568633265" height="49" as="geometry" />
+          <mxGeometry x="2352.998428698488" y="493" width="128.45834568633265" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-10" value="采集量检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2289.9950489178773" y="584" width="116.7803142603024" height="130" as="geometry" />
