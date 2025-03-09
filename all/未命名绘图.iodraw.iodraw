@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ys12WchY1rM21Nu849QM-1" value="草莓采摘转运系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="409" width="3030" height="352" as="geometry" />
+          <mxGeometry x="-30" y="409" width="2640" height="352" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-2" value="待机状态" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="44.55973910465461" y="663" width="86.23777053068486" height="49" as="geometry" />
+          <mxGeometry x="789.9997391046546" y="690" width="86.23777053068486" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-3" value="转运机系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="778.4790987251705" y="568" width="897.4117995849392" height="179" as="geometry" />
