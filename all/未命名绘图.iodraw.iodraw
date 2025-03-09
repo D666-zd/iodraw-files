@@ -145,7 +145,7 @@
         <mxCell id="ys12WchY1rM21Nu849QM-2" value="待机状态" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1213.1197391046546" y="690" width="86.23777053068486" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ys12WchY1rM21Nu849QM-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ys12WchY1rM21Nu849QM-46" value="智能避障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1748.05" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.572;entryY=0.487;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ys12WchY1rM21Nu849QM-6" target="ys12WchY1rM21Nu849QM-1">
