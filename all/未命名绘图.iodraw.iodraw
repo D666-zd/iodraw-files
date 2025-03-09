@@ -46,7 +46,7 @@
         </UserObject>
         <UserObject label="激光定位对接" link="#对接技术" tooltip="UWB厘米级定位\n视觉二维码校准\n液压调平平台" id="ys12WchY1rM21Nu849QM-14">
           <mxCell style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-            <mxGeometry x="960" y="195" width="127" height="49" as="geometry" />
+            <mxGeometry x="1130" y="194" width="127" height="49" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ys12WchY1rM21Nu849QM-15" value="传送带接驳" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
