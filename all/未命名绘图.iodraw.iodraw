@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ys12WchY1rM21Nu849QM-1" value="草莓采摘转运系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="410" width="3373" height="350" as="geometry" />
+          <mxGeometry x="-30" y="410" width="3373" height="352" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-2" value="待机状态" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
           <mxGeometry x="83" y="254" width="96" height="49" as="geometry" />
@@ -115,13 +115,13 @@
         <mxCell id="ys12WchY1rM21Nu849QM-38" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.21;entryY=0.99;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;" edge="1" parent="ys12WchY1rM21Nu849QM-1" source="ys12WchY1rM21Nu849QM-19" target="ys12WchY1rM21Nu849QM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ys12WchY1rM21Nu849QM-11" value="发送转运信号" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="780" width="128" height="49" as="geometry" />
+        <mxCell id="ys12WchY1rM21Nu849QM-11" value="发送转运信号" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
+          <mxGeometry x="2460" y="303" width="128" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ys12WchY1rM21Nu849QM-27" value="达到阈值" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.03;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;" edge="1" parent="1" source="ys12WchY1rM21Nu849QM-10" target="ys12WchY1rM21Nu849QM-11">
+        <mxCell id="ys12WchY1rM21Nu849QM-37" value="" style="startArrow=none;endArrow=block;exitX=0.2;exitY=1.01;entryX=1;entryY=0.75;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;" edge="1" parent="ys12WchY1rM21Nu849QM-1" source="ys12WchY1rM21Nu849QM-11" target="ys12WchY1rM21Nu849QM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ys12WchY1rM21Nu849QM-37" value="" style="startArrow=none;endArrow=block;exitX=0.2;exitY=1.01;entryX=1;entryY=0.75;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;" edge="1" parent="1" source="ys12WchY1rM21Nu849QM-11" target="ys12WchY1rM21Nu849QM-12">
+        <mxCell id="ys12WchY1rM21Nu849QM-27" value="达到阈值" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="ys12WchY1rM21Nu849QM-1" source="ys12WchY1rM21Nu849QM-10" target="ys12WchY1rM21Nu849QM-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
