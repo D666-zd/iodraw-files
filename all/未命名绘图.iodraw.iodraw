@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-11" value="发送转运信号" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="2460" y="303" width="128" height="49" as="geometry" />
+          <mxGeometry x="2460" y="289" width="128" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-37" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.75;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="ys12WchY1rM21Nu849QM-1" source="ys12WchY1rM21Nu849QM-11" target="ys12WchY1rM21Nu849QM-12">
           <mxGeometry relative="1" as="geometry" />
