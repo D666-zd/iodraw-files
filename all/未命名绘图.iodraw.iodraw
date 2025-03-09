@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ys12WchY1rM21Nu849QM-1" value="草莓采摘转运系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;container=0;" vertex="1" parent="1">
+        <mxCell id="ys12WchY1rM21Nu849QM-1" value="草莓采摘转运系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;container=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="870" y="300" width="1640" height="461" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-3" value="转运机系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -24,7 +24,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ys12WchY1rM21Nu849QM-6" value="图像识别系统扫描" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="ys12WchY1rM21Nu849QM-6" value="图像识别系统扫描" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1730" y="540" width="156.1" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-7" value="成熟度判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
