@@ -130,8 +130,8 @@
         <mxCell id="ys12WchY1rM21Nu849QM-40" value="采摘机启动" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1170.003892677142" y="473" width="129.35665579602727" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ys12WchY1rM21Nu849QM-43" value="" style="rounded=0;whiteSpace=wrap;html=1;textOpacity=0;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="777" width="760" height="392.5" as="geometry" />
+        <mxCell id="ys12WchY1rM21Nu849QM-44" value="转运机系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1341.7290987251704" y="830" width="897.4117995849392" height="179" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
