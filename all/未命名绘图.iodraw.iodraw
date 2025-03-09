@@ -62,7 +62,7 @@
           <mxGeometry x="1265" y="194" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-18" value="自动卸货" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="1508" y="194" width="94" height="49" as="geometry" />
+          <mxGeometry x="1600" y="194" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-19" value="返回待机位置" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
           <mxGeometry x="1718" y="194" width="128" height="49" as="geometry" />
