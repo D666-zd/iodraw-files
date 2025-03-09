@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ys12WchY1rM21Nu849QM-1" value="草莓采摘转运系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="410" width="3373" height="352" as="geometry" />
+          <mxGeometry x="-30" y="409" width="3373" height="352" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-2" value="待机状态" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
           <mxGeometry x="83" y="254" width="96" height="49" as="geometry" />
