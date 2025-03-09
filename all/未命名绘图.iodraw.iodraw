@@ -34,7 +34,7 @@
           <mxGeometry x="2332.998428698488" y="493" width="128.45834568633265" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-10" value="采集量检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2269.9950489178773" y="584" width="116.7803142603024" height="130" as="geometry" />
+          <mxGeometry x="2270" y="584" width="116.78" height="86" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-12" value="接收转运信号" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1341.7307915801957" y="680" width="114.0853839312185" height="49" as="geometry" />
