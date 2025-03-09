@@ -163,6 +163,9 @@
         <mxCell id="ys12WchY1rM21Nu849QM-50" value="平台车系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;shadow=0;fillColor=none;strokeWidth=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontColor=#000000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1341.73" y="360" width="490" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="ys12WchY1rM21Nu849QM-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
