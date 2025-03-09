@@ -37,10 +37,10 @@
           <mxGeometry x="2941" y="94" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-11" value="发送转运信号" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="3216" y="184" width="128" height="49" as="geometry" />
+          <mxGeometry x="3130" y="254" width="128" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-12" value="接收转运信号" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="329" y="254" width="127" height="49" as="geometry" />
+          <mxGeometry x="673" y="254" width="127" height="49" as="geometry" />
         </mxCell>
         <UserObject label="路径动态规划" link="#路径算法" tooltip="Dijkstra动态避障\nGNSS+惯性导航融合\n地形自适应底盘" id="ys12WchY1rM21Nu849QM-13">
           <mxCell style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
