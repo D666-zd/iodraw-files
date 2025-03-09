@@ -23,7 +23,7 @@
           <mxGeometry x="1743.2641565372073" y="540" width="142.8313074414468" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-7" value="成熟度判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1981.9774681292618" y="452" width="117.67862436999702" height="131" as="geometry" />
+          <mxGeometry x="1981.98" y="480" width="108.02" height="103" as="geometry" />
         </mxCell>
         <UserObject label="多关节手臂采摘" link="#采摘策略" tooltip="多关节柔性夹爪\n压力传感器反馈\n果柄精准切割" id="ys12WchY1rM21Nu849QM-8">
           <mxCell style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
@@ -131,7 +131,7 @@
           <mxGeometry x="1170.003892677142" y="473" width="129.35665579602727" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-44" value="转运机系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="421" width="897.41" height="277" as="geometry" />
+          <mxGeometry x="1933.78" y="442" width="600" height="248" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
