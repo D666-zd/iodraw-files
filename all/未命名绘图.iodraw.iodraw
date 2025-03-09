@@ -62,7 +62,7 @@
           <mxGeometry x="175" y="2490" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XXES4DydE56KjHicWrXh-20" value="发送任务完成信号" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="330" y="2525" width="50" height="190" as="geometry" />
+          <mxGeometry x="425" y="2330" width="50" height="190" as="geometry" />
         </mxCell>
         <mxCell id="XXES4DydE56KjHicWrXh-21" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XXES4DydE56KjHicWrXh-3" target="XXES4DydE56KjHicWrXh-4">
           <mxGeometry relative="1" as="geometry" />
@@ -119,7 +119,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XXES4DydE56KjHicWrXh-39" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XXES4DydE56KjHicWrXh-19" target="XXES4DydE56KjHicWrXh-20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="2550" />
+              <mxPoint x="485" y="2550" />
+              <mxPoint x="485" y="2520" />
+              <mxPoint x="475" y="2520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XXES4DydE56KjHicWrXh-40" value="CAN总线指令" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.61;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XXES4DydE56KjHicWrXh-10" target="XXES4DydE56KjHicWrXh-12">
           <mxGeometry relative="1" as="geometry">
