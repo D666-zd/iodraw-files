@@ -130,6 +130,9 @@
         <mxCell id="ys12WchY1rM21Nu849QM-40" value="采摘机启动" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1170.003892677142" y="473" width="129.35665579602727" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="ys12WchY1rM21Nu849QM-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="467.5" width="760" height="392.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
