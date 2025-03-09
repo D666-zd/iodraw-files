@@ -5,61 +5,61 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ys12WchY1rM21Nu849QM-1" value="草莓采摘转运系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="409" width="3373" height="352" as="geometry" />
+          <mxGeometry x="-30" y="409" width="3320" height="352" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-2" value="待机状态" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="83" y="254" width="96" height="49" as="geometry" />
+          <mxGeometry x="81.69581974503409" y="254" width="94.49155054847317" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-3" value="转运机系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="900" y="159" width="999" height="179" as="geometry" />
+          <mxGeometry x="885.858286391936" y="159" width="983.3026978950489" height="179" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-4" value="采摘机启动自检" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="1483" y="64" width="144" height="49" as="geometry" />
+          <mxGeometry x="1459.6975985769345" y="64" width="141.73732582270975" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-5" value="机械底盘路径规划" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="1702" y="64" width="159" height="49" as="geometry" />
+          <mxGeometry x="1675.256448265639" y="64" width="156.5016305959087" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-6" value="图像识别系统扫描" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="1974" y="131" width="159" height="49" as="geometry" />
+          <mxGeometry x="1942.9825081529796" y="131" width="156.5016305959087" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-7" value="成熟度判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="2262" y="43" width="131" height="131" as="geometry" />
+          <mxGeometry x="2226.457159798399" y="43" width="128.94159501927066" height="131" as="geometry" />
         </mxCell>
         <UserObject label="多关节手臂采摘" link="#采摘策略" tooltip="多关节柔性夹爪\n压力传感器反馈\n果柄精准切割" id="ys12WchY1rM21Nu849QM-8">
           <mxCell style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-            <mxGeometry x="2506" y="84" width="142" height="49" as="geometry" />
+            <mxGeometry x="2466.6231841091017" y="84" width="139.7687518529499" height="49" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ys12WchY1rM21Nu849QM-9" value="柔性收集筐存放" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="2723" y="84" width="143" height="49" as="geometry" />
+          <mxGeometry x="2680.2134598280463" y="84" width="140.75303883782982" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-10" value="采集量检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="2725" y="173" width="130" height="130" as="geometry" />
+          <mxGeometry x="2682.182033797806" y="173" width="127.95730803439075" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-12" value="接收转运信号" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="1473" y="271" width="127" height="49" as="geometry" />
+          <mxGeometry x="1449.8547287281351" y="271" width="125.00444707975096" height="49" as="geometry" />
         </mxCell>
         <UserObject label="路径动态规划" link="#路径算法" tooltip="Dijkstra动态避障\nGNSS+惯性导航融合\n地形自适应底盘" id="ys12WchY1rM21Nu849QM-13">
           <mxCell style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-            <mxGeometry x="970" y="194" width="127" height="49" as="geometry" />
+            <mxGeometry x="954.7583753335309" y="194" width="125.00444707975096" height="49" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="激光定位对接" link="#对接技术" tooltip="UWB厘米级定位\n视觉二维码校准\n液压调平平台" id="ys12WchY1rM21Nu849QM-14">
           <mxCell style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-            <mxGeometry x="1130" y="194" width="127" height="49" as="geometry" />
+            <mxGeometry x="1112.2442929143197" y="194" width="125.00444707975096" height="49" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ys12WchY1rM21Nu849QM-15" value="传送带接驳" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="1290" y="195" width="112" height="49" as="geometry" />
+          <mxGeometry x="1269.7302104951082" y="195" width="110.24014230655203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-17" value="循迹运至集装点" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="1430" y="194" width="143" height="49" as="geometry" />
+          <mxGeometry x="1407.5303883782983" y="194" width="140.75303883782982" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-18" value="自动卸货" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="1600" y="194" width="94" height="49" as="geometry" />
+          <mxGeometry x="1574.8591758078862" y="194" width="92.52297657871331" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-19" value="返回待机位置" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="1718" y="194" width="128" height="49" as="geometry" />
+          <mxGeometry x="1691.0050400237178" y="194" width="125.98873406463089" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-20" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;" edge="1" parent="ys12WchY1rM21Nu849QM-1" source="ys12WchY1rM21Nu849QM-4" target="ys12WchY1rM21Nu849QM-5">
           <mxGeometry relative="1" as="geometry" />
@@ -96,7 +96,7 @@
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-34" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;" edge="1" parent="ys12WchY1rM21Nu849QM-1" target="ys12WchY1rM21Nu849QM-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1403" y="218.01" as="sourcePoint" />
+            <mxPoint x="1380.9546397865402" y="218.01" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-35" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;" edge="1" parent="ys12WchY1rM21Nu849QM-1" source="ys12WchY1rM21Nu849QM-17" target="ys12WchY1rM21Nu849QM-18">
@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-11" value="发送转运信号" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="ys12WchY1rM21Nu849QM-1">
-          <mxGeometry x="2460" y="271" width="128" height="49" as="geometry" />
+          <mxGeometry x="2421.345982804625" y="271" width="125.98873406463089" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ys12WchY1rM21Nu849QM-37" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="ys12WchY1rM21Nu849QM-1" source="ys12WchY1rM21Nu849QM-11" target="ys12WchY1rM21Nu849QM-12">
           <mxGeometry relative="1" as="geometry">
