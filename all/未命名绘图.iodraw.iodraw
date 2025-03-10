@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-366" value="转运关键硬件" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-366" value="转运关键硬件" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
           <mxGeometry x="2481" y="700" width="274" height="416" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-367" value="转运机" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
@@ -83,16 +83,16 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-388" value="解除锁定" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2062" y="440" width="86" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-390" value="PGN-plus锁定机构" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-390" value="PGN-plus锁定机构" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
           <mxGeometry x="2524" y="1032" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-391" value="EC5000同步传送带系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-391" value="EC5000同步传送带系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
           <mxGeometry x="2506" y="834" width="224" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-392" value="D4N-212G制动开关" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-392" value="D4N-212G制动开关" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
           <mxGeometry x="2521" y="933" width="195" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-393" value="In-Sight 7000监控系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-393" value="In-Sight 7000监控系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
           <mxGeometry x="2510" y="735" width="217" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-394" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-370" target="1BTEQyfQn0PtC83ooqYi-371">
@@ -169,14 +169,6 @@
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-414" value="无线信号" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-372" target="1BTEQyfQn0PtC83ooqYi-379">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-415" value="制动信号" style="startArrow=none;endArrow=block;exitX=0.517;exitY=0.004;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontSize=17;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-384" target="1BTEQyfQn0PtC83ooqYi-374">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3182" y="80" />
-              <mxPoint x="1801" y="80" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-416" value="完成信号" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-376" target="1BTEQyfQn0PtC83ooqYi-387">
           <mxGeometry relative="1" as="geometry" />
