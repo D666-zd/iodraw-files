@@ -152,13 +152,9 @@
               <mxPoint x="2100" y="359" />
               <mxPoint x="2100" y="370" />
               <mxPoint x="2164" y="370" />
-              <mxPoint x="2164" y="400" />
+              <mxPoint x="2164" y="390" />
+              <mxPoint x="2125" y="390" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-422" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1BTEQyfQn0PtC83ooqYi-410">
-          <mxGeometry x="0.7838" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-411" value="" style="startArrow=none;endArrow=block;exitX=0.61;exitY=-0.01;entryX=0;entryY=0.49;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-381" target="1BTEQyfQn0PtC83ooqYi-382">
