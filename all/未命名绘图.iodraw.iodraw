@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-375" value="放下挡板启动传送" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="770" width="140" height="49" as="geometry" />
+          <mxGeometry x="1590" y="770" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-376" value="转运完成?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1720" y="830" width="110" height="74" as="geometry" />
@@ -103,8 +103,12 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-397" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-373" target="1BTEQyfQn0PtC83ooqYi-374">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-398" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.182;entryY=0.973;rounded=0;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-374" target="1BTEQyfQn0PtC83ooqYi-375">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-398" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.182;entryY=0.973;rounded=0;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-374" target="1BTEQyfQn0PtC83ooqYi-375">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1616" y="871" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-400" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontSize=17;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-376" target="1BTEQyfQn0PtC83ooqYi-377">
           <mxGeometry x="-0.5152" relative="1" as="geometry">
