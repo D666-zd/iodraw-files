@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1BTEQyfQn0PtC83ooqYi-37" value="转运机控制系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="2477" width="749" height="2702" as="geometry" />
+          <mxGeometry x="20" y="20" width="749" height="2702" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-38" value="采摘机控制系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1319" y="20" width="736" height="2780" as="geometry" />
+          <mxGeometry x="789" y="20" width="736" height="2780" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-39" value="激光计数器检测草莓量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1596" y="45" width="222" height="49" as="geometry" />
