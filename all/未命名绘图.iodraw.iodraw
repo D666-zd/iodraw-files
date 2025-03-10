@@ -134,7 +134,7 @@
           <mxGeometry x="988" y="1068" width="248" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-171" value="Schunk PGN-plus 125-1锁定机构" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="480" y="4350" width="180" height="67" as="geometry" />
+          <mxGeometry x="410" y="4350" width="180" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-172" value="Interroll EC5000同步传送带控制" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="436" y="3710" width="224" height="67" as="geometry" />
