@@ -54,7 +54,7 @@
           <mxGeometry x="2330" y="512" width="100" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-380" value="AGX路径规划" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="524" width="154" height="49" as="geometry" />
+          <mxGeometry x="2410" y="350" width="154" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-381" target="1BTEQyfQn0PtC83ooqYi-382">
           <mxGeometry relative="1" as="geometry" />
