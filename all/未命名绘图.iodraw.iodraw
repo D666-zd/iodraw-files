@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1BTEQyfQn0PtC83ooqYi-366" value="转运关键硬件" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2481" y="700" width="274" height="416" as="geometry" />
+          <mxGeometry x="2420" y="606" width="274" height="416" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-367" value="转运机" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1850" y="130" width="1860" height="460" as="geometry" />
@@ -84,16 +84,16 @@
           <mxGeometry x="2062" y="440" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-390" value="PGN-plus锁定机构" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2524" y="1032" width="189" height="49" as="geometry" />
+          <mxGeometry x="2463" y="938" width="186" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-391" value="EC5000同步传送带系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2506" y="834" width="224" height="49" as="geometry" />
+          <mxGeometry x="2445" y="740" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-392" value="D4N-212G制动开关" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2521" y="933" width="195" height="49" as="geometry" />
+          <mxGeometry x="2460" y="839" width="195" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-393" value="In-Sight 7000监控系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2510" y="735" width="217" height="49" as="geometry" />
+          <mxGeometry x="2449" y="641" width="217" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-394" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-370" target="1BTEQyfQn0PtC83ooqYi-371">
           <mxGeometry relative="1" as="geometry" />
