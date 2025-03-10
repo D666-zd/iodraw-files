@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-128" value="对接与转运关键硬件" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-128" value="对接与转运关键硬件" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="86" y="10" width="655" height="4440" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-129" value="转运机控制系统" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
