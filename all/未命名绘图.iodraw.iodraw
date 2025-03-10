@@ -1,152 +1,152 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="5789" dy="3260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6616" dy="3260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1BTEQyfQn0PtC83ooqYi-128" value="对接与转运关键硬件" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="319" y="2210" width="190" height="40" as="geometry" />
+          <mxGeometry x="86" y="10" width="655" height="4440" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-129" value="转运机控制系统" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1702" y="2606" width="150" height="40" as="geometry" />
+          <mxGeometry x="-142" y="1000" width="1714" height="3251" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-130" value="采摘机控制系统" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3361" y="1853" width="150" height="40" as="geometry" />
+          <mxGeometry x="1779" y="140" width="1391" height="3465" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-131" value="SICK LMS511激光计数器检测草莓量" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3314" y="326" width="320" height="40" as="geometry" />
+          <mxGeometry x="3146" y="304" width="256" height="84" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-132" value="采摘篮是否装满?" style="rhombus;strokeWidth=3;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3721" y="525" width="160" height="40" as="geometry" />
+          <mxGeometry x="3670" y="461" width="168" height="168" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-133" value="Siemens SCALANCE W774-1发送转运请求信号" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3597" y="716" width="410" height="40" as="geometry" />
+          <mxGeometry x="3553" y="702" width="243" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-134" value="等待转运机到达" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3880" y="847" width="150" height="40" as="geometry" />
+          <mxGeometry x="3827" y="842" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-135" value="Bosch BNO055位置传感器&#xa;检测到转运机?" style="rhombus;strokeWidth=3;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3835" y="1075" width="240" height="60" as="geometry" />
+          <mxGeometry x="3693" y="964" width="282" height="282" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-136" value="准备对接" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3944" y="1324" width="100" height="40" as="geometry" />
+          <mxGeometry x="3932" y="1319" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-137" value="SICK DL100 Pro激光测距对准位置" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3586" y="1432" width="300" height="40" as="geometry" />
+          <mxGeometry x="3408" y="1418" width="212" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-138" value="等待制动开关信号" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3651" y="1539" width="170" height="40" as="geometry" />
+          <mxGeometry x="3499" y="1534" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-139" value="Omron D4N-212G&#xa;制动开关打开?" style="rhombus;strokeWidth=3;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3651" y="1753" width="170" height="60" as="geometry" />
+          <mxGeometry x="3308" y="1656" width="253" height="253" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-140" value="Festo DSBC-32气缸放下连接挡板" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3416" y="1997" width="290" height="40" as="geometry" />
+          <mxGeometry x="3230" y="1983" width="248" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-141" value="SEW MOVIMOT启动传送带电机" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2972" y="2136" width="280" height="40" as="geometry" />
+          <mxGeometry x="2914" y="2122" width="241" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-142" value="KEYENCE IV-H500CA监控果篮传输" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2755" y="2276" width="310" height="40" as="geometry" />
+          <mxGeometry x="2599" y="2262" width="230" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-143" value="所有满篮转移完成?" style="rhombus;strokeWidth=3;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2820" y="2474" width="180" height="40" as="geometry" />
+          <mxGeometry x="2782" y="2402" width="184" height="184" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-144" value="接收空篮" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2860" y="2664" width="100" height="40" as="geometry" />
+          <mxGeometry x="2892" y="2659" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-145" value="Banner Q3X传感器确认&#xa;所有空篮接收完成?" style="rhombus;strokeWidth=3;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2806" y="2887" width="210" height="60" as="geometry" />
+          <mxGeometry x="2419" y="2781" width="271" height="271" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-146" value="向转运机发送传输完成信号" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2791" y="3129" width="240" height="40" as="geometry" />
+          <mxGeometry x="2508" y="3124" width="253" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-147" value="SMC CDLM2B32电动缸收回连接挡板" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2778" y="3327" width="320" height="40" as="geometry" />
+          <mxGeometry x="2672" y="3305" width="245" height="84" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-148" value="恢复采摘作业" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3202" y="3518" width="130" height="40" as="geometry" />
+          <mxGeometry x="3115" y="3513" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-149" value="Siemens S7-1500 PLC主控制器" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3078" y="179" width="280" height="40" as="geometry" />
+          <mxGeometry x="3025" y="165" width="179" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-150" value="待命状态" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1346" y="1815" width="100" height="40" as="geometry" />
+          <mxGeometry x="1532" y="1810" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-151" value="Siemens SCALANCE W774-1&#xa;接收到转运请求?" style="rhombus;strokeWidth=3;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1593" y="2029" width="260" height="60" as="geometry" />
+          <mxGeometry x="1788" y="1932" width="253" height="253" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-152" value="Trimble AgGPS 542定位采摘机" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="2272" width="270" height="40" as="geometry" />
+          <mxGeometry x="1752" y="2258" width="166" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-153" value="NVIDIA Jetson AGX Xavier&#xa;路径规划算法计算最优路径" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1382" y="2386" width="240" height="60" as="geometry" />
+          <mxGeometry x="1630" y="2374" width="249" height="84" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-154" value="John Deere AutoTrac™系统&#xa;驱动至采摘机" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1377" y="2521" width="250" height="60" as="geometry" />
+          <mxGeometry x="1544" y="2509" width="261" height="84" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-155" value="Continental SRR520&#xa;测量接近距离" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2244" y="2670" width="190" height="60" as="geometry" />
+          <mxGeometry x="2203" y="2666" width="222" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-156" value="Intel RealSense D455&#xa;精确对接系统启动" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="2786" width="200" height="60" as="geometry" />
+          <mxGeometry x="1956" y="2782" width="237" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-157" value="执行对接操作" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1975" y="2904" width="130" height="40" as="geometry" />
+          <mxGeometry x="2075" y="2899" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-158" value="Omron D4N-212G激活制动开关" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2346" y="3035" width="280" height="40" as="geometry" />
+          <mxGeometry x="2281" y="3021" width="227" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-159" value="SEW MOVIMOT MM07D启动传送带" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="952" y="3152" width="310" height="40" as="geometry" />
+          <mxGeometry x="780" y="3138" width="190" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-160" value="Cognex In-Sight 7000&#xa;监控满篮接收进度" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1322" y="3281" width="200" height="60" as="geometry" />
+          <mxGeometry x="1157" y="3277" width="236" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-161" value="所有满篮接收完成?" style="rhombus;strokeWidth=3;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1332" y="3514" width="180" height="40" as="geometry" />
+          <mxGeometry x="1423" y="3442" width="184" height="184" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-162" value="传送空篮到采摘机" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1337" y="3704" width="170" height="40" as="geometry" />
+          <mxGeometry x="1340" y="3699" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-163" value="SICK WTB4传感器确认&#xa;所有空篮传送完成?" style="rhombus;strokeWidth=3;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1317" y="3933" width="210" height="60" as="geometry" />
+          <mxGeometry x="1053" y="3821" width="284" height="284" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-164" value="等待传输完成信号" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1834" y="4183" width="170" height="40" as="geometry" />
+          <mxGeometry x="1900" y="4178" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-165" value="收到完成信号?" style="rhombus;strokeWidth=3;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2004" y="1081" width="140" height="40" as="geometry" />
+          <mxGeometry x="2159" y="1025" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-166" value="DESTACO 82M-4E5D01解除锁定&#xa;断开对接" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1251" y="1261" width="290" height="60" as="geometry" />
+          <mxGeometry x="907" y="1249" width="256" height="84" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-167" value="Velodyne VLP-16激光雷达&#xa;规划返回指定卸货点" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1282" y="1421" width="230" height="60" as="geometry" />
+          <mxGeometry x="988" y="1409" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-168" value="执行卸货操作" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1331" y="1571" width="130" height="40" as="geometry" />
+          <mxGeometry x="1276" y="1566" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-169" value="Dorner 2200系列装载新空篮" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1272" y="1693" width="250" height="40" as="geometry" />
+          <mxGeometry x="825" y="1688" width="259" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-170" value="Allen-Bradley CompactLogix 5480控制器" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="937" y="1082" width="350" height="40" as="geometry" />
+          <mxGeometry x="671" y="1068" width="248" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-171" value="Schunk PGN-plus 125-1锁定机构" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="325" y="3844" width="290" height="40" as="geometry" />
+          <mxGeometry x="385" y="3830" width="180" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-172" value="Interroll EC5000同步传送带控制" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="408" y="3724" width="280" height="40" as="geometry" />
+          <mxGeometry x="443" y="3710" width="224" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-173" value="FLIR Blackfly S实时监控" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="125" y="2171" width="220" height="40" as="geometry" />
+          <mxGeometry x="201" y="2166" width="228" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-174" value="Schneider XB4BS8445紧急停止系统" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="252" y="2032" width="320" height="40" as="geometry" />
+          <mxGeometry x="278" y="2018" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-175" value="LiFePO4-24V-100Ah电源系统" style="whiteSpace=wrap;strokeWidth=3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="453" y="49" width="260" height="40" as="geometry" />
+          <mxGeometry x="512" y="35" width="246" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-176" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=1;entryY=0.24;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;strokeWidth=3;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-131" target="1BTEQyfQn0PtC83ooqYi-132">
           <mxGeometry relative="1" as="geometry" />
