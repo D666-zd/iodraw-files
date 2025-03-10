@@ -17,13 +17,13 @@
           <mxGeometry x="810" y="665" width="1700" height="372" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-370" value="SICK LMS511检测" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="864" y="923.5" width="180" height="49" as="geometry" />
+          <mxGeometry x="989" y="934.5" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-371" value="篮满?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1069" y="904" width="88" height="88" as="geometry" />
+          <mxGeometry x="1194" y="915" width="88" height="88" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-372" value="发送请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1204" y="924" width="126" height="49" as="geometry" />
+          <mxGeometry x="1329" y="935" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-373" value="等待对接" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1330" y="846" width="125" height="49" as="geometry" />
@@ -107,7 +107,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-400" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-376" target="1BTEQyfQn0PtC83ooqYi-377">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1780" y="930" />
+              <mxPoint x="1780" y="930" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-401" value="" style="startArrow=none;endArrow=block;exitX=0.009;exitY=0.605;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-377" target="1BTEQyfQn0PtC83ooqYi-370">
           <mxGeometry relative="1" as="geometry" />
