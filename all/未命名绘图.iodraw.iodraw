@@ -75,7 +75,7 @@
           <mxGeometry x="3280" y="380" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-386" value="监控传输进度" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="4261" y="231" width="156" height="49" as="geometry" />
+          <mxGeometry x="3580" y="380" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-387" value="传输完成?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1942" y="299" width="120" height="120" as="geometry" />
