@@ -17,7 +17,7 @@
           <mxGeometry x="1250" y="606" width="860" height="277" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-370" value="SICK LMS511检测" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2120" y="771" width="180" height="49" as="geometry" />
+          <mxGeometry x="1259" y="760.5" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-371" value="篮满?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;direction=east;" vertex="1" parent="1">
           <mxGeometry x="1464" y="741" width="88" height="88" as="geometry" />
@@ -81,7 +81,7 @@
           <mxGeometry x="2862.5" y="240" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-386" value="监控传输进度" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="409" width="156" height="49" as="geometry" />
+          <mxGeometry x="2862.5" y="180" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-387" value="传输完成?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1942" y="349" width="120" height="120" as="geometry" />
