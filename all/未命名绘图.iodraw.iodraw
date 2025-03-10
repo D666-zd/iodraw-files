@@ -48,10 +48,10 @@
           <mxGeometry x="1903" y="963.5" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-378" value="待命" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2552" y="554" width="94" height="49" as="geometry" />
+          <mxGeometry x="2200" y="524" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-379" value="接收请求?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2696" y="489" width="119" height="119" as="geometry" />
+          <mxGeometry x="2340" y="480" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-380" value="AGX路径规划" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2887" y="524" width="154" height="49" as="geometry" />
