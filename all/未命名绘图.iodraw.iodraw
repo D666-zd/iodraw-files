@@ -78,7 +78,7 @@
           <mxGeometry x="2848.5" y="300" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-385" value="启动同步传送带" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2862.5" y="240" width="130" height="49" as="geometry" />
+          <mxGeometry x="2850" y="240" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-386" value="监控传输进度" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2848.5" y="180" width="156" height="49" as="geometry" />
