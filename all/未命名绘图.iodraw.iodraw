@@ -170,6 +170,14 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-414" value="无线信号" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-372" target="1BTEQyfQn0PtC83ooqYi-379">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-415" value="制动信号" style="startArrow=none;endArrow=block;exitX=0.517;exitY=0.004;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontSize=17;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-384" target="1BTEQyfQn0PtC83ooqYi-374">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3182" y="80" />
+              <mxPoint x="1801" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-416" value="完成信号" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-376" target="1BTEQyfQn0PtC83ooqYi-387">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
