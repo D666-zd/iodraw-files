@@ -32,7 +32,11 @@
           <mxGeometry x="1741" y="810.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-421" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-375" target="1BTEQyfQn0PtC83ooqYi-376">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1920" y="878" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-375" value="放下挡板启动传送" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1830" y="766" width="140" height="49" as="geometry" />
@@ -103,7 +107,7 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-397" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-373" target="1BTEQyfQn0PtC83ooqYi-374">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-398" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.182;entryY=0.973;rounded=0;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-374" target="1BTEQyfQn0PtC83ooqYi-375">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-398" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-374" target="1BTEQyfQn0PtC83ooqYi-375">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1877" y="871" />
