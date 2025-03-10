@@ -69,7 +69,7 @@
           <mxGeometry x="2894" y="380" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-384" value="制动开关激活" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="3830" y="322" width="158" height="49" as="geometry" />
+          <mxGeometry x="3420" y="342" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-385" value="启动同步传送带" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="4038" y="293" width="173" height="49" as="geometry" />
