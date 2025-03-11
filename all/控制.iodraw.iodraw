@@ -14,7 +14,7 @@
           <mxGeometry x="1870" y="190" width="1805" height="304" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-369" value="采摘机" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="1822" y="630" width="892" height="320" as="geometry" />
+          <mxGeometry x="1850" y="640" width="864" height="300" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-370" value="SICK LMS511检测" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
           <mxGeometry x="2128" y="861.5" width="180" height="49" as="geometry" />
