@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2036" dy="1889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="843" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="2280" y="821" width="88" height="88" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-372" value="发送请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="790" width="126" height="49" as="geometry" />
+          <mxGeometry x="2470" y="800" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-373" value="等待对接" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
           <mxGeometry x="2290" y="634.25" width="125" height="49" as="geometry" />
@@ -160,12 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-414" value="无线信号" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-372" target="1BTEQyfQn0PtC83ooqYi-379">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2606" y="825" />
-              <mxPoint x="2606" y="585" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-416" value="完成信号" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-376" target="1BTEQyfQn0PtC83ooqYi-387">
           <mxGeometry x="0.3588" relative="1" as="geometry">
