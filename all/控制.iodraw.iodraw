@@ -20,7 +20,7 @@
           <mxGeometry x="1259" y="760.5" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-371" value="篮满?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2350" y="781" width="88" height="88" as="geometry" />
+          <mxGeometry x="2350" y="795" width="88" height="88" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-372" value="发送请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
           <mxGeometry x="2540" y="692" width="126" height="49" as="geometry" />
@@ -170,8 +170,13 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-424" value="返回卸货点" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2034.5" y="524" width="141" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-430" value="" style="startArrow=none;endArrow=block;entryX=0.25;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-371" target="1BTEQyfQn0PtC83ooqYi-373">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-430" value="" style="startArrow=none;endArrow=block;entryX=0.25;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-371" target="1BTEQyfQn0PtC83ooqYi-373">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2391" y="795" />
+              <mxPoint x="2391" y="758" />
+              <mxPoint x="2391" y="758" />
+            </Array>
             <mxPoint x="1552" y="785" as="sourcePoint" />
             <mxPoint x="2640" y="716" as="targetPoint" />
           </mxGeometry>
