@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-377" value="收回挡板恢复采摘" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="829" width="188" height="49" as="geometry" />
+          <mxGeometry x="1908" y="829" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-378" value="待命" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2200" y="524" width="94" height="49" as="geometry" />
@@ -120,11 +120,6 @@
             <Array as="points">
               <mxPoint x="2268" y="656.5" />
             </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-400" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.508;entryY=-0.045;rounded=0;strokeWidth=2;fontSize=17;entryDx=0;entryDy=0;exitDx=0;exitDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-376" target="1BTEQyfQn0PtC83ooqYi-377">
-          <mxGeometry x="-0.5152" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
