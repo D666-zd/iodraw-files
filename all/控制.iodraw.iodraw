@@ -77,7 +77,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2890" y="548" />
-              <mxPoint x="2890" y="445" />
+              <mxPoint x="2890" y="460" />
+              <mxPoint x="2856" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -109,7 +110,7 @@
           <mxGeometry x="2679.5" y="190" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-386" value="监控传输进度" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2678.75" y="100" width="161.5" height="49" as="geometry" />
+          <mxGeometry x="2678.75" y="110" width="161.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-387" value="传输完成?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1942" y="349" width="120" height="120" as="geometry" />
