@@ -13,13 +13,10 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-366" value="转运关键硬件" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2390" y="100" width="240" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-369" value="采摘机" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="640" width="783" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-469" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-370" target="1BTEQyfQn0PtC83ooqYi-371">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-370" value="SICK LMS511检测" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-370" value="SICK LMS511开始检测" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2128" y="861.5" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-371" value="篮满?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;direction=east;" vertex="1" parent="1">
@@ -207,12 +204,6 @@
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-464" value="&lt;span style=&quot;font-size: 21px; text-align: right;&quot;&gt;转运控制重点&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="2110" y="260" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-465" target="1BTEQyfQn0PtC83ooqYi-371">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-465" value="开始" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2534.5" y="861.5" width="126" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
