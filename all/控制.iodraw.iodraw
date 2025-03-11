@@ -121,10 +121,10 @@
           <mxGeometry x="2995" y="349.5" width="186" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-391" value="EC5000同步传送带系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="2995" y="158" width="224" height="49" as="geometry" />
+          <mxGeometry x="2980.5" y="190" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-392" value="D4N-212G制动开关" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="3010" y="257" width="195" height="49" as="geometry" />
+          <mxGeometry x="2995" y="270" width="195" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-393" value="In-Sight 7000监控系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
           <mxGeometry x="2999" y="59" width="217" height="49" as="geometry" />
