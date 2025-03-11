@@ -88,10 +88,10 @@
           <mxGeometry x="2661" y="430" width="195" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-383" value="锁定机构固定" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2683" y="330" width="158" height="49" as="geometry" />
+          <mxGeometry x="2683" y="349" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-384" value="制动开关激活" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2684.75" y="230" width="158" height="49" as="geometry" />
+          <mxGeometry x="2680.5" y="270" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-385" value="启动同步传送带" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2678.5" y="141" width="160" height="49" as="geometry" />
