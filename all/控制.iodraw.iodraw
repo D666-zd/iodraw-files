@@ -11,7 +11,7 @@
           <mxGeometry x="1920" y="170" width="1000" height="324" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-366" value="转运关键硬件" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2390" y="90" width="240" height="320" as="geometry" />
+          <mxGeometry x="2390" y="100" width="240" height="310" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-369" value="采摘机" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;direction=east;" vertex="1" parent="1">
           <mxGeometry x="1900" y="640" width="783" height="300" as="geometry" />
@@ -117,9 +117,6 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-388" value="解除锁定" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2062" y="430" width="86" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-456" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-390" target="1BTEQyfQn0PtC83ooqYi-383">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-390" value="PGN-plus锁定机构" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
           <mxGeometry x="2415" y="349.5" width="186" height="48" as="geometry" />
         </mxCell>
@@ -128,9 +125,6 @@
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-391" value="EC5000同步传送带系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
           <mxGeometry x="2400.5" y="190" width="224" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-457" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-392" target="1BTEQyfQn0PtC83ooqYi-384">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-392" value="D4N-212G制动开关" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
           <mxGeometry x="2415" y="270" width="195" height="49" as="geometry" />
