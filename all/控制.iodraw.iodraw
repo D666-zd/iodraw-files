@@ -31,10 +31,10 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-374" value="对接确认?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;direction=east;" vertex="1" parent="1">
           <mxGeometry x="1750" y="656.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-421" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-375" target="1BTEQyfQn0PtC83ooqYi-376">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-421" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-375" target="1BTEQyfQn0PtC83ooqYi-376">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1929" y="724" />
+              <mxPoint x="2130" y="724" />
             </Array>
           </mxGeometry>
         </mxCell>
