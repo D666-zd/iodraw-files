@@ -17,7 +17,7 @@
           <mxGeometry x="1250" y="606" width="860" height="277" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-370" value="SICK LMS511检测" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2457" y="800.5" width="180" height="49" as="geometry" />
+          <mxGeometry x="2130" y="809.5" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-371" value="篮满?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;direction=east;" vertex="1" parent="1">
           <mxGeometry x="2336" y="781" width="88" height="88" as="geometry" />
