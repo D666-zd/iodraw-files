@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-367" value="转运机" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-367" value="转运机" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="1900" y="90" width="1050" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-368" value="转运控制重点" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-368" value="转运控制重点" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1920" y="170" width="1000" height="324" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-366" value="转运关键硬件" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
