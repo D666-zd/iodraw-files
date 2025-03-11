@@ -94,10 +94,10 @@
           <mxGeometry x="2680.5" y="270" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-385" value="启动同步传送带" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2678.5" y="141" width="160" height="49" as="geometry" />
+          <mxGeometry x="2681" y="180" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-386" value="监控传输进度" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2683" y="70" width="161.5" height="49" as="geometry" />
+          <mxGeometry x="2681.25" y="100" width="161.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-387" value="传输完成?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1942" y="349" width="120" height="120" as="geometry" />
