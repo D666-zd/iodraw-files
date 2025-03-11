@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1BTEQyfQn0PtC83ooqYi-366" value="转运关键硬件" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="2970" y="24" width="274" height="416" as="geometry" />
+          <mxGeometry x="2970" y="90" width="240" height="350" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-367" value="转运机" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1900" y="130" width="1050" height="470" as="geometry" />
@@ -127,7 +127,7 @@
           <mxGeometry x="2995" y="270" width="195" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-393" value="In-Sight 7000监控系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="2999" y="59" width="217" height="49" as="geometry" />
+          <mxGeometry x="2984" y="110" width="217" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-395" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-373" target="1BTEQyfQn0PtC83ooqYi-372">
           <mxGeometry relative="1" as="geometry" />
