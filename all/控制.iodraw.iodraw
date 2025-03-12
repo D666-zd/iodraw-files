@@ -81,7 +81,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-381" value="AutoTrac导航" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-381" value="导航" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2680" y="523.75" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-450" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-382" target="1BTEQyfQn0PtC83ooqYi-383" edge="1">
