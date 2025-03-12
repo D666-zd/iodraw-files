@@ -126,19 +126,19 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-461" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-391" target="1BTEQyfQn0PtC83ooqYi-385" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-391" value="EC5000同步传送带系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" parent="1" vertex="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-391" value="同步传送带系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" parent="1" vertex="1">
           <mxGeometry x="2400.5" y="190" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-462" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-392" target="1BTEQyfQn0PtC83ooqYi-384" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-392" value="D4N-212G制动开关" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" parent="1" vertex="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-392" value="制动开关" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" parent="1" vertex="1">
           <mxGeometry x="2415" y="270" width="195" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-460" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-393" target="1BTEQyfQn0PtC83ooqYi-386" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-393" value="In-Sight 7000监控系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" parent="1" vertex="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-393" value="监控系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" parent="1" vertex="1">
           <mxGeometry x="2404" y="110" width="217" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-395" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-373" target="1BTEQyfQn0PtC83ooqYi-372" edge="1">
