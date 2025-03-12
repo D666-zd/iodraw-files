@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="-938" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-599" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="1920" y="90" width="1000" height="404" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-366" value="转运关键硬件" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="100" width="210" height="310" as="geometry" />
+          <mxGeometry x="2420" y="100" width="180" height="310" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-369" value="采摘机" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;direction=east;" parent="1" vertex="1">
           <mxGeometry x="1900" y="640" width="783" height="300" as="geometry" />
@@ -208,11 +208,10 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-464" value="&lt;span style=&quot;font-size: 21px; text-align: right;&quot;&gt;转运控制重点&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="2110" y="260" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-465" target="1BTEQyfQn0PtC83ooqYi-371" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-465" value="开始" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2534.5" y="861.5" width="126" height="49" as="geometry" />
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="1BTEQyfQn0PtC83ooqYi-371" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2534.5" y="886" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
