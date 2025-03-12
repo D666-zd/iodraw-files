@@ -45,8 +45,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2ZDyxtG9NbA7hoeQxtYq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-376" target="1BTEQyfQn0PtC83ooqYi-369">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2ZDyxtG9NbA7hoeQxtYq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-376" target="1BTEQyfQn0PtC83ooqYi-371">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1927" y="716" />
+              <mxPoint x="1927" y="850" />
+              <mxPoint x="2350" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ZDyxtG9NbA7hoeQxtYq-3" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="2ZDyxtG9NbA7hoeQxtYq-2">
+          <mxGeometry x="-0.2353" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-376" value="转运完成?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;direction=east;" parent="1" vertex="1">
           <mxGeometry x="1947" y="678.5" width="110" height="74" as="geometry" />
