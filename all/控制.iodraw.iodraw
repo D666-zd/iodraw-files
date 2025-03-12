@@ -49,7 +49,7 @@
         <mxCell id="2ZDyxtG9NbA7hoeQxtYq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BTEQyfQn0PtC83ooqYi-376" target="1BTEQyfQn0PtC83ooqYi-377">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ZDyxtG9NbA7hoeQxtYq-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2ZDyxtG9NbA7hoeQxtYq-5">
+        <mxCell id="2ZDyxtG9NbA7hoeQxtYq-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="2ZDyxtG9NbA7hoeQxtYq-5">
           <mxGeometry x="-0.4643" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -58,7 +58,7 @@
           <mxGeometry x="1947" y="678.5" width="110" height="74" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-377" value="收回挡板恢复采摘" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="2090" y="780" width="188" height="49" as="geometry" />
+          <mxGeometry x="2090" y="770" width="168" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-378" value="待命" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2200" y="524" width="94" height="49" as="geometry" />
