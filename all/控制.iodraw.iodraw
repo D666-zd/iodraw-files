@@ -202,16 +202,19 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-373" value="等待对接" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" parent="1" vertex="1">
           <mxGeometry x="2358" y="738.5" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-449" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.256;entryY=0.959;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-371" target="1BTEQyfQn0PtC83ooqYi-373" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-449" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-371" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2400" y="810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-464" value="&lt;span style=&quot;font-size: 21px; text-align: right;&quot;&gt;转运控制重点&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="2110" y="260" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="1BTEQyfQn0PtC83ooqYi-371" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2534.5" y="886" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-465" target="1BTEQyfQn0PtC83ooqYi-371" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-465" value="开始" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2534.5" y="861.5" width="126" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
