@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-375" value="放下挡板启动传送" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" parent="1" vertex="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-375" value="放下挡板，启动传送" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=east;" parent="1" vertex="1">
           <mxGeometry x="2110" y="751" width="148" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-440" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-376" target="1BTEQyfQn0PtC83ooqYi-377" edge="1">
