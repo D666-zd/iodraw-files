@@ -70,7 +70,7 @@
         <mxCell id="1BTEQyfQn0PtC83ooqYi-379" value="接收请求?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2330" y="512" width="100" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="1BTEQyfQn0PtC83ooqYi-380" value="AGX路径规划" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="1BTEQyfQn0PtC83ooqYi-380" value="路径规划" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2470" y="524" width="154" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-455" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-381" target="1BTEQyfQn0PtC83ooqYi-382" edge="1">
