@@ -121,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-390" value="锁定机构" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="2415" y="349.5" width="186" height="48" as="geometry" />
+          <mxGeometry x="2415" y="349.5" width="105" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-461" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-391" target="1BTEQyfQn0PtC83ooqYi-385" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -133,7 +133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-392" value="制动开关" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="2415" y="270" width="195" height="49" as="geometry" />
+          <mxGeometry x="2452.5" y="270" width="115" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BTEQyfQn0PtC83ooqYi-460" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1BTEQyfQn0PtC83ooqYi-393" target="1BTEQyfQn0PtC83ooqYi-386" edge="1">
           <mxGeometry relative="1" as="geometry" />
