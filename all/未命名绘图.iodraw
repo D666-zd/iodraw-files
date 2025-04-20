@@ -17,10 +17,13 @@
           <mxGeometry x="1064" y="43" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-47" value="1. 初始定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
-          <mxGeometry x="293" y="161" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="161" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-48" value="2. 负压吸附启动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
-          <mxGeometry x="428" y="161" width="60" height="30" as="geometry" />
+          <mxGeometry x="316" y="161" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-49" target="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-49" value="3. 毛刷引导至工作区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
           <mxGeometry x="611" y="161" width="60" height="30" as="geometry" />
