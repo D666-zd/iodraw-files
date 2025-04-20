@@ -37,7 +37,7 @@
         <mxCell id="2kozpT0IkYsLmfvXXiTA-52" value="快速拔除刚毛" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
           <mxGeometry x="690" y="161" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-53" value="7. 负压吸取至集装袋" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-53" value="负压吸取至集装袋" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
           <mxGeometry x="780" y="107" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-54" value="8. 集装袋满后自动提醒" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
