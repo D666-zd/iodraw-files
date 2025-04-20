@@ -11,7 +11,7 @@
           <mxGeometry x="240" y="130" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-46" value="毛发收集系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="490" y="130" width="156" height="48" as="geometry" />
+          <mxGeometry x="530" y="130" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-47" value="初始定位" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="240" y="271" width="60" height="30" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="110" width="350" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
