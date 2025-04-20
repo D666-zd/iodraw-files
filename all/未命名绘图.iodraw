@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="102" width="280" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="102" width="440" height="228" as="geometry" />
+        </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-44" value="毛发定位与移动" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="66" y="208" width="172" height="48" as="geometry" />
         </mxCell>
@@ -90,12 +96,6 @@
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-68" value="" style="startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=0.11;entryY=0.99;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=10;" edge="1" parent="1" source="2kozpT0IkYsLmfvXXiTA-52" target="2kozpT0IkYsLmfvXXiTA-53">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="102" width="440" height="228" as="geometry" />
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="102" width="280" height="228" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
