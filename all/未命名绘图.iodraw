@@ -7,16 +7,16 @@
         <mxCell id="2kozpT0IkYsLmfvXXiTA-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="102" width="280" height="228" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="60" y="102" width="440" height="228" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-44" value="毛发定位与移动" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="66" y="208" width="172" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-45" value="拔毛过程控制" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-45" value="拔毛过程控制" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="240" y="130" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-46" value="毛发收集系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-46" value="毛发收集系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="530" y="130" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-47" value="初始定位" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;" vertex="1" parent="1">
