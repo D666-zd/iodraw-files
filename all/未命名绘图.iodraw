@@ -26,7 +26,7 @@
           <mxGeometry x="410" y="161" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-50" value="4. 动态张力控制（防打结）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
-          <mxGeometry x="794" y="151" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="161" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-51" value="5. 防缠绕拔毛机构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
           <mxGeometry x="929" y="151" width="60" height="30" as="geometry" />
