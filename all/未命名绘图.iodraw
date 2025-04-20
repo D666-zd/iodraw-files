@@ -44,7 +44,7 @@
           <mxGeometry x="870" y="107" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-55" value="9. 用户丢弃集装袋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
-          <mxGeometry x="1565" y="107" width="60" height="30" as="geometry" />
+          <mxGeometry x="960" y="107" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2kozpT0IkYsLmfvXXiTA-56" value="" style="startArrow=none;endArrow=block;exitX=0.89;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-44" target="2kozpT0IkYsLmfvXXiTA-45">
           <mxGeometry relative="1" as="geometry" />
