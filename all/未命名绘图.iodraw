@@ -4,232 +4,121 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-1" value="技术路线图" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="1267" height="1898" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-43" value="宠物拔毛技术路线图（泳道图）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="1654" height="223" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-2" value="shape=rect" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="43" y="1812" width="139" height="48" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-44" value="毛发定位与移动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="46" y="98" width="172" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-3" value="毛发移动模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="488" y="178" width="156" height="48" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-45" value="拔毛过程控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="563" y="53" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-4" value="毛发定位检测（视觉/传感器）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="731" y="332" width="245" height="66" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-46" value="毛发收集系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="1064" y="43" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-5" value="负压吸力引导（多级可调吸嘴）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="649" y="496" width="253" height="66" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-47" value="1. 初始定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="293" y="161" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-6" value="旋转毛刷梳理（仿生刷头设计）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="568" y="659" width="254" height="66" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-48" value="2. 负压吸附启动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="428" y="161" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-7" value="拔毛处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="361" y="668" width="156" height="48" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-49" value="3. 毛刷引导至工作区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="611" y="161" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-8" value="防缠绕拔毛机构（弹性夹持组件）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="537" y="823" width="253" height="66" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-50" value="4. 动态张力控制（防打结）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="794" y="151" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-9" value="动态张力控制（压力传感器反馈）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="688" y="986" width="253" height="66" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-51" value="5. 防缠绕拔毛机构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="929" y="151" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-10" value="高频振动分离（超声波辅助技术）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="592" y="1149" width="252" height="66" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-52" value="6. 快速拔除刚毛" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="1112" y="151" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-11" value="毛发收集模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="172" y="1158" width="156" height="48" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-53" value="7. 负压吸取至集装袋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="1295" y="107" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-12" value="双通道负压收集（主备冗余设计）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="564" y="1313" width="254" height="66" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-54" value="8. 集装袋满后自动提醒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="1430" y="107" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-13" value="毛发压缩模块（自动压实装置）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="474" y="1476" width="253" height="66" as="geometry" />
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-55" value="9. 用户丢弃集装袋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-43">
+          <mxGeometry x="1565" y="107" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-14" value="一次性集装袋（防回溢密封接口）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="333" y="1639" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-15" value="用户交互模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="470" y="46" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-16" value="工作状态指示（LED/蜂鸣器）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="753" y="169" width="256" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-17" value="故障预警系统（堵塞检测）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="988" y="831" width="252" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-18" value="集装袋更换提醒（重量传感器）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2kozpT0IkYsLmfvXXiTA-1">
-          <mxGeometry x="232" y="1803" width="254" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-3" target="2kozpT0IkYsLmfvXXiTA-4">
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-44" target="2kozpT0IkYsLmfvXXiTA-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="736" y="284" />
+              <mxPoint x="255" y="77" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-3" target="2kozpT0IkYsLmfvXXiTA-5">
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.36;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-45" target="2kozpT0IkYsLmfvXXiTA-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="647" y="284" />
-              <mxPoint x="647" y="447" />
+              <mxPoint x="756" y="67" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.22;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-3" target="2kozpT0IkYsLmfvXXiTA-6">
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=-0.01;entryY=0.51;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-44" target="2kozpT0IkYsLmfvXXiTA-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="284" />
-              <mxPoint x="520" y="610" />
+              <mxPoint x="255" y="176" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1.01;entryX=0.31;entryY=-0.01;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-7" target="2kozpT0IkYsLmfvXXiTA-8">
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=-0.01;entryY=0.51;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-47" target="2kozpT0IkYsLmfvXXiTA-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=-0.01;entryY=0.51;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-48" target="2kozpT0IkYsLmfvXXiTA-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1.01;entryX=0.11;entryY=0.01;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-45" target="2kozpT0IkYsLmfvXXiTA-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="545" y="774" />
+              <mxPoint x="756" y="122" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=1.01;entryX=0;entryY=0.06;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-7" target="2kozpT0IkYsLmfvXXiTA-9">
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=-0.01;entryY=0.51;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-50" target="2kozpT0IkYsLmfvXXiTA-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=-0.01;entryY=0.51;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-51" target="2kozpT0IkYsLmfvXXiTA-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.18;entryY=-0.01;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-46" target="2kozpT0IkYsLmfvXXiTA-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="454" y="774" />
-              <mxPoint x="454" y="937" />
+              <mxPoint x="1257" y="67" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1.01;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-7" target="2kozpT0IkYsLmfvXXiTA-10">
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.49;entryX=-0.01;entryY=0.49;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-53" target="2kozpT0IkYsLmfvXXiTA-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.49;entryX=-0.01;entryY=0.49;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-54" target="2kozpT0IkYsLmfvXXiTA-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=-0.01;entryY=0.66;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-49" target="2kozpT0IkYsLmfvXXiTA-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="392" y="774" />
-              <mxPoint x="392" y="1101" />
+              <mxPoint x="756" y="176" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1.01;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-11" target="2kozpT0IkYsLmfvXXiTA-12">
+        <mxCell id="2kozpT0IkYsLmfvXXiTA-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=0.11;entryY=0.99;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-43" source="2kozpT0IkYsLmfvXXiTA-52" target="2kozpT0IkYsLmfvXXiTA-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="421" y="1264" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1.01;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-11" target="2kozpT0IkYsLmfvXXiTA-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="331" y="1264" />
-              <mxPoint x="331" y="1427" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1.01;entryX=0.09;entryY=0.01;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-11" target="2kozpT0IkYsLmfvXXiTA-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="203" y="1264" />
-              <mxPoint x="203" y="1591" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-15" target="2kozpT0IkYsLmfvXXiTA-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="881" y="131" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-15" target="2kozpT0IkYsLmfvXXiTA-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1114" y="131" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.11;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-15" target="2kozpT0IkYsLmfvXXiTA-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="113" y="131" />
-              <mxPoint x="113" y="1754" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-31" value="图像识别" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.62;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-4" target="2kozpT0IkYsLmfvXXiTA-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="854" y="447" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-32" value="气流引导" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.63;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-5" target="2kozpT0IkYsLmfvXXiTA-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="775" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-33" value="预处理完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.55;entryY=-0.01;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-6" target="2kozpT0IkYsLmfvXXiTA-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="695" y="774" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-34" value="夹持定位" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-8" target="2kozpT0IkYsLmfvXXiTA-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="663" y="937" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-35" value="动态调整" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.65;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-9" target="2kozpT0IkYsLmfvXXiTA-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="814" y="1101" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-36" value="分离完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.54;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-10" target="2kozpT0IkYsLmfvXXiTA-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="718" y="1264" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-37" value="分级收集" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.64;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-12" target="2kozpT0IkYsLmfvXXiTA-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="691" y="1427" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-38" value="压缩储存" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.73;entryY=0.01;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-13" target="2kozpT0IkYsLmfvXXiTA-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="601" y="1591" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-39" value="满载信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1.01;entryX=0.46;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-14" target="2kozpT0IkYsLmfvXXiTA-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="334" y="1754" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-40" value="实时反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.55;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-16" target="2kozpT0IkYsLmfvXXiTA-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="881" y="284" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-41" value="异常中断" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.98;entryY=0;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-17" target="2kozpT0IkYsLmfvXXiTA-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1114" y="937" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2kozpT0IkYsLmfvXXiTA-42" value="用户操作" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.3;entryX=1;entryY=0.73;rounded=0;" edge="1" parent="2kozpT0IkYsLmfvXXiTA-1" source="2kozpT0IkYsLmfvXXiTA-18" target="2kozpT0IkYsLmfvXXiTA-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1167" y="1754" />
+              <mxPoint x="1257" y="166" />
             </Array>
           </mxGeometry>
         </mxCell>
