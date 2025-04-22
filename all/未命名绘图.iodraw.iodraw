@@ -1,13 +1,13 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="PqPdP7fK5LELDEjqhH_p">
-    <mxGraphModel dx="1002" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2258" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9E2kiMV8HC6bguwMFw7e-1" value="硬盘 (Hard Drive)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="37" y="317" width="318" height="219" as="geometry" />
         </mxCell>
-        <mxCell id="9E2kiMV8HC6bguwMFw7e-2" value="隔振系统 (Isolation System)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="9E2kiMV8HC6bguwMFw7e-2" value="隔振系统 (Isolation System)" style="whiteSpace=wrap;strokeWidth=2;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="20" y="168" width="370" height="98" as="geometry" />
         </mxCell>
         <mxCell id="9E2kiMV8HC6bguwMFw7e-3" value="基础 (Base/Foundation)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -60,6 +60,9 @@
               <mxPoint x="289" y="317" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9E2kiMV8HC6bguwMFw7e-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="9E2kiMV8HC6bguwMFw7e-2" target="9E2kiMV8HC6bguwMFw7e-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
